@@ -1,0 +1,201 @@
+ticket_id,customer_message,date,customer_name,customer_email,status,category,priority,sentiment
+T1001,I was charged twice for my subscription This is a general question.,2026-09-01,Customer 15,customer4@example.com,In Progress,Billing,Low,Neutral
+T1002,My invoice has the wrong amount This is not working correctly. Thanks for your help.,2026-09-26,Customer 29,customer18@example.com,Open,Billing,Medium,Positive
+T1003,Please explain this unexpected payment This is affecting several users. I am frustrated and disappointed.,2026-08-29,Customer 70,customer12@example.com,Resolved,Billing,High,Negative
+T1004,My card payment failed This is an urgent outage.,2026-10-09,Customer 4,customer12@example.com,Open,Billing,Urgent,Neutral
+T1005,I need a receipt for my bill This is a general question.,2026-09-27,Customer 65,customer78@example.com,Open,Billing,Low,Neutral
+T1006,I was charged twice for my subscription This is not working correctly. Thanks for your help.,2026-09-06,Customer 26,customer70@example.com,Resolved,Billing,Medium,Positive
+T1007,My invoice has the wrong amount This is affecting several users. I am frustrated and disappointed.,2026-09-27,Customer 58,customer76@example.com,In Progress,Billing,High,Negative
+T1008,Please explain this unexpected payment This is an urgent outage.,2026-08-21,Customer 1,customer21@example.com,Resolved,Billing,Urgent,Neutral
+T1009,My card payment failed This is a general question.,2026-09-20,Customer 36,customer20@example.com,Open,Billing,Low,Neutral
+T1010,I need a receipt for my bill This is not working correctly. Thanks for your help.,2026-08-24,Customer 44,customer14@example.com,Open,Billing,Medium,Positive
+T1011,I was charged twice for my subscription This is affecting several users. I am frustrated and disappointed.,2026-09-17,Customer 13,customer46@example.com,In Progress,Billing,High,Negative
+T1012,My invoice has the wrong amount This is an urgent outage.,2026-09-03,Customer 34,customer6@example.com,Resolved,Billing,Urgent,Neutral
+T1013,Please explain this unexpected payment This is a general question.,2026-09-07,Customer 16,customer49@example.com,Open,Billing,Low,Neutral
+T1014,My card payment failed This is not working correctly. Thanks for your help.,2026-09-06,Customer 38,customer80@example.com,In Progress,Billing,Medium,Positive
+T1015,I need a receipt for my bill This is affecting several users. I am frustrated and disappointed.,2026-09-05,Customer 25,customer9@example.com,Open,Billing,High,Negative
+T1016,I was charged twice for my subscription This is an urgent outage.,2026-08-30,Customer 30,customer38@example.com,Open,Billing,Urgent,Neutral
+T1017,My invoice has the wrong amount This is a general question.,2026-08-18,Customer 30,customer13@example.com,Resolved,Billing,Low,Neutral
+T1018,Please explain this unexpected payment This is not working correctly. Thanks for your help.,2026-09-24,Customer 59,customer47@example.com,Open,Billing,Medium,Positive
+T1019,My card payment failed This is affecting several users. I am frustrated and disappointed.,2026-09-18,Customer 46,customer27@example.com,In Progress,Billing,High,Negative
+T1020,I need a receipt for my bill This is an urgent outage.,2026-08-28,Customer 10,customer78@example.com,Open,Billing,Urgent,Neutral
+T1021,I was charged twice for my subscription This is a general question.,2026-09-07,Customer 32,customer21@example.com,Resolved,Billing,Low,Neutral
+T1022,My invoice has the wrong amount This is not working correctly. Thanks for your help.,2026-09-17,Customer 35,customer72@example.com,Open,Billing,Medium,Positive
+T1023,Please explain this unexpected payment This is affecting several users. I am frustrated and disappointed.,2026-08-29,Customer 42,customer8@example.com,Open,Billing,High,Negative
+T1024,My card payment failed This is an urgent outage.,2026-08-20,Customer 5,customer41@example.com,Resolved,Billing,Urgent,Neutral
+T1025,I need a receipt for my bill This is a general question.,2026-09-24,Customer 9,customer28@example.com,In Progress,Billing,Low,Neutral
+T1026,I was charged twice for my subscription This is not working correctly. Thanks for your help.,2026-09-28,Customer 64,customer51@example.com,Resolved,Billing,Medium,Positive
+T1027,My invoice has the wrong amount This is affecting several users. I am frustrated and disappointed.,2026-10-02,Customer 34,customer18@example.com,Open,Billing,High,Negative
+T1028,Please explain this unexpected payment This is an urgent outage.,2026-08-25,Customer 72,customer69@example.com,In Progress,Billing,Urgent,Neutral
+T1029,My card payment failed This is a general question.,2026-08-25,Customer 75,customer55@example.com,Resolved,Billing,Low,Neutral
+T1030,I need a receipt for my bill This is not working correctly. Thanks for your help.,2026-09-18,Customer 29,customer18@example.com,Resolved,Billing,Medium,Positive
+T1031,I was charged twice for my subscription This is affecting several users. I am frustrated and disappointed.,2026-10-06,Customer 7,customer15@example.com,Open,Billing,High,Negative
+T1032,My invoice has the wrong amount This is an urgent outage.,2026-09-01,Customer 21,customer55@example.com,Open,Billing,Urgent,Neutral
+T1033,Please explain this unexpected payment This is a general question.,2026-09-17,Customer 49,customer77@example.com,Resolved,Billing,Low,Neutral
+T1034,My card payment failed This is not working correctly. Thanks for your help.,2026-09-08,Customer 33,customer71@example.com,Open,Billing,Medium,Positive
+T1035,I need a receipt for my bill This is affecting several users. I am frustrated and disappointed.,2026-08-29,Customer 15,customer69@example.com,In Progress,Billing,High,Negative
+T1036,I was charged twice for my subscription This is an urgent outage.,2026-08-23,Customer 44,customer15@example.com,In Progress,Billing,Urgent,Neutral
+T1037,My invoice has the wrong amount This is a general question.,2026-09-14,Customer 21,customer59@example.com,Open,Billing,Low,Neutral
+T1038,Please explain this unexpected payment This is not working correctly. Thanks for your help.,2026-08-26,Customer 34,customer65@example.com,Open,Billing,Medium,Positive
+T1039,My card payment failed This is affecting several users. I am frustrated and disappointed.,2026-09-09,Customer 14,customer39@example.com,Open,Billing,High,Negative
+T1040,I need a receipt for my bill This is an urgent outage.,2026-10-02,Customer 48,customer21@example.com,Open,Billing,Urgent,Neutral
+T1041,I cannot log in to my account This is a general question.,2026-09-03,Customer 42,customer63@example.com,Open,Login,Low,Neutral
+T1042,My password reset link is not working This is not working correctly. Thanks for your help.,2026-10-04,Customer 47,customer40@example.com,Open,Login,Medium,Positive
+T1043,I am locked out of my account This is affecting several users. I am frustrated and disappointed.,2026-10-08,Customer 31,customer73@example.com,Open,Login,High,Negative
+T1044,My verification code never arrived This is an urgent outage.,2026-10-06,Customer 63,customer9@example.com,Open,Login,Urgent,Neutral
+T1045,My account login keeps failing This is a general question.,2026-10-03,Customer 61,customer71@example.com,Open,Login,Low,Neutral
+T1046,I cannot log in to my account This is not working correctly. Thanks for your help.,2026-09-25,Customer 68,customer78@example.com,Resolved,Login,Medium,Positive
+T1047,My password reset link is not working This is affecting several users. I am frustrated and disappointed.,2026-09-28,Customer 70,customer26@example.com,In Progress,Login,High,Negative
+T1048,I am locked out of my account This is an urgent outage.,2026-09-16,Customer 48,customer57@example.com,Resolved,Login,Urgent,Neutral
+T1049,My verification code never arrived This is a general question.,2026-10-04,Customer 32,customer29@example.com,Open,Login,Low,Neutral
+T1050,My account login keeps failing This is not working correctly. Thanks for your help.,2026-09-20,Customer 3,customer76@example.com,Open,Login,Medium,Positive
+T1051,I cannot log in to my account This is affecting several users. I am frustrated and disappointed.,2026-09-04,Customer 29,customer1@example.com,Open,Login,High,Negative
+T1052,My password reset link is not working This is an urgent outage.,2026-08-27,Customer 8,customer30@example.com,Open,Login,Urgent,Neutral
+T1053,I am locked out of my account This is a general question.,2026-08-15,Customer 5,customer43@example.com,Open,Login,Low,Neutral
+T1054,My verification code never arrived This is not working correctly. Thanks for your help.,2026-09-09,Customer 31,customer36@example.com,Resolved,Login,Medium,Positive
+T1055,My account login keeps failing This is affecting several users. I am frustrated and disappointed.,2026-09-28,Customer 70,customer17@example.com,Resolved,Login,High,Negative
+T1056,I cannot log in to my account This is an urgent outage.,2026-09-26,Customer 61,customer53@example.com,Open,Login,Urgent,Neutral
+T1057,My password reset link is not working This is a general question.,2026-10-05,Customer 13,customer56@example.com,In Progress,Login,Low,Neutral
+T1058,I am locked out of my account This is not working correctly. Thanks for your help.,2026-09-14,Customer 53,customer60@example.com,Open,Login,Medium,Positive
+T1059,My verification code never arrived This is affecting several users. I am frustrated and disappointed.,2026-08-29,Customer 13,customer8@example.com,Resolved,Login,High,Negative
+T1060,My account login keeps failing This is an urgent outage.,2026-08-26,Customer 44,customer14@example.com,Open,Login,Urgent,Neutral
+T1061,I cannot log in to my account This is a general question.,2026-09-29,Customer 25,customer69@example.com,Resolved,Login,Low,Neutral
+T1062,My password reset link is not working This is not working correctly. Thanks for your help.,2026-10-03,Customer 55,customer24@example.com,In Progress,Login,Medium,Positive
+T1063,I am locked out of my account This is affecting several users. I am frustrated and disappointed.,2026-09-12,Customer 32,customer10@example.com,Resolved,Login,High,Negative
+T1064,My verification code never arrived This is an urgent outage.,2026-08-21,Customer 71,customer13@example.com,Open,Login,Urgent,Neutral
+T1065,My account login keeps failing This is a general question.,2026-08-31,Customer 70,customer2@example.com,Open,Login,Low,Neutral
+T1066,I cannot log in to my account This is not working correctly. Thanks for your help.,2026-08-13,Customer 31,customer22@example.com,Resolved,Login,Medium,Positive
+T1067,My password reset link is not working This is affecting several users. I am frustrated and disappointed.,2026-09-10,Customer 62,customer28@example.com,Resolved,Login,High,Negative
+T1068,I am locked out of my account This is an urgent outage.,2026-08-15,Customer 8,customer22@example.com,Resolved,Login,Urgent,Neutral
+T1069,My verification code never arrived This is a general question.,2026-10-11,Customer 50,customer34@example.com,Resolved,Login,Low,Neutral
+T1070,My account login keeps failing This is not working correctly. Thanks for your help.,2026-09-23,Customer 55,customer72@example.com,Resolved,Login,Medium,Positive
+T1071,I cannot log in to my account This is affecting several users. I am frustrated and disappointed.,2026-10-02,Customer 25,customer38@example.com,Open,Login,High,Negative
+T1072,My password reset link is not working This is an urgent outage.,2026-10-08,Customer 75,customer70@example.com,Open,Login,Urgent,Neutral
+T1073,I am locked out of my account This is a general question.,2026-08-25,Customer 41,customer8@example.com,Open,Login,Low,Neutral
+T1074,My verification code never arrived This is not working correctly. Thanks for your help.,2026-09-04,Customer 62,customer65@example.com,Open,Login,Medium,Positive
+T1075,My account login keeps failing This is affecting several users. I am frustrated and disappointed.,2026-10-08,Customer 66,customer11@example.com,Open,Login,High,Negative
+T1076,I cannot log in to my account This is an urgent outage.,2026-10-07,Customer 77,customer9@example.com,Open,Login,Urgent,Neutral
+T1077,My password reset link is not working This is a general question.,2026-09-16,Customer 16,customer73@example.com,Open,Login,Low,Neutral
+T1078,I am locked out of my account This is not working correctly. Thanks for your help.,2026-09-04,Customer 77,customer6@example.com,Open,Login,Medium,Positive
+T1079,My verification code never arrived This is affecting several users. I am frustrated and disappointed.,2026-09-15,Customer 75,customer73@example.com,In Progress,Login,High,Negative
+T1080,My account login keeps failing This is an urgent outage.,2026-08-13,Customer 34,customer27@example.com,In Progress,Login,Urgent,Neutral
+T1081,The app crashes when I upload a file This is a general question.,2026-09-26,Customer 34,customer51@example.com,Open,Technical Issue,Low,Neutral
+T1082,The dashboard is loading very slowly This is not working correctly. Thanks for your help.,2026-08-30,Customer 39,customer59@example.com,In Progress,Technical Issue,Medium,Positive
+T1083,I see an error when saving settings This is affecting several users. I am frustrated and disappointed.,2026-08-13,Customer 10,customer2@example.com,Resolved,Technical Issue,High,Negative
+T1084,The website stopped working This is an urgent outage.,2026-09-02,Customer 73,customer13@example.com,Open,Technical Issue,Urgent,Neutral
+T1085,Notifications are not appearing This is a general question.,2026-09-07,Customer 28,customer65@example.com,In Progress,Technical Issue,Low,Neutral
+T1086,The app crashes when I upload a file This is not working correctly. Thanks for your help.,2026-10-03,Customer 45,customer9@example.com,Open,Technical Issue,Medium,Positive
+T1087,The dashboard is loading very slowly This is affecting several users. I am frustrated and disappointed.,2026-09-18,Customer 37,customer21@example.com,Resolved,Technical Issue,High,Negative
+T1088,I see an error when saving settings This is an urgent outage.,2026-08-19,Customer 70,customer39@example.com,Open,Technical Issue,Urgent,Neutral
+T1089,The website stopped working This is a general question.,2026-08-30,Customer 71,customer39@example.com,Open,Technical Issue,Low,Neutral
+T1090,Notifications are not appearing This is not working correctly. Thanks for your help.,2026-08-12,Customer 18,customer34@example.com,Open,Technical Issue,Medium,Positive
+T1091,The app crashes when I upload a file This is affecting several users. I am frustrated and disappointed.,2026-08-16,Customer 14,customer71@example.com,Open,Technical Issue,High,Negative
+T1092,The dashboard is loading very slowly This is an urgent outage.,2026-09-24,Customer 37,customer78@example.com,Open,Technical Issue,Urgent,Neutral
+T1093,I see an error when saving settings This is a general question.,2026-08-27,Customer 44,customer27@example.com,In Progress,Technical Issue,Low,Neutral
+T1094,The website stopped working This is not working correctly. Thanks for your help.,2026-09-09,Customer 63,customer33@example.com,Open,Technical Issue,Medium,Positive
+T1095,Notifications are not appearing This is affecting several users. I am frustrated and disappointed.,2026-10-06,Customer 55,customer36@example.com,Open,Technical Issue,High,Negative
+T1096,The app crashes when I upload a file This is an urgent outage.,2026-10-11,Customer 43,customer17@example.com,In Progress,Technical Issue,Urgent,Neutral
+T1097,The dashboard is loading very slowly This is a general question.,2026-10-01,Customer 57,customer71@example.com,Resolved,Technical Issue,Low,Neutral
+T1098,I see an error when saving settings This is not working correctly. Thanks for your help.,2026-09-06,Customer 2,customer15@example.com,Open,Technical Issue,Medium,Positive
+T1099,The website stopped working This is affecting several users. I am frustrated and disappointed.,2026-08-12,Customer 20,customer70@example.com,Open,Technical Issue,High,Negative
+T1100,Notifications are not appearing This is an urgent outage.,2026-08-19,Customer 48,customer75@example.com,Open,Technical Issue,Urgent,Neutral
+T1101,The app crashes when I upload a file This is a general question.,2026-09-14,Customer 17,customer6@example.com,In Progress,Technical Issue,Low,Neutral
+T1102,The dashboard is loading very slowly This is not working correctly. Thanks for your help.,2026-09-18,Customer 6,customer46@example.com,Open,Technical Issue,Medium,Positive
+T1103,I see an error when saving settings This is affecting several users. I am frustrated and disappointed.,2026-08-29,Customer 32,customer14@example.com,In Progress,Technical Issue,High,Negative
+T1104,The website stopped working This is an urgent outage.,2026-08-23,Customer 72,customer53@example.com,Open,Technical Issue,Urgent,Neutral
+T1105,Notifications are not appearing This is a general question.,2026-08-13,Customer 31,customer21@example.com,Open,Technical Issue,Low,Neutral
+T1106,The app crashes when I upload a file This is not working correctly. Thanks for your help.,2026-08-16,Customer 53,customer4@example.com,Open,Technical Issue,Medium,Positive
+T1107,The dashboard is loading very slowly This is affecting several users. I am frustrated and disappointed.,2026-08-25,Customer 43,customer53@example.com,Open,Technical Issue,High,Negative
+T1108,I see an error when saving settings This is an urgent outage.,2026-09-24,Customer 21,customer14@example.com,Resolved,Technical Issue,Urgent,Neutral
+T1109,The website stopped working This is a general question.,2026-08-17,Customer 5,customer61@example.com,Open,Technical Issue,Low,Neutral
+T1110,Notifications are not appearing This is not working correctly. Thanks for your help.,2026-09-29,Customer 59,customer45@example.com,In Progress,Technical Issue,Medium,Positive
+T1111,The app crashes when I upload a file This is affecting several users. I am frustrated and disappointed.,2026-08-20,Customer 30,customer29@example.com,Open,Technical Issue,High,Negative
+T1112,The dashboard is loading very slowly This is an urgent outage.,2026-08-30,Customer 25,customer52@example.com,In Progress,Technical Issue,Urgent,Neutral
+T1113,I see an error when saving settings This is a general question.,2026-09-24,Customer 9,customer36@example.com,In Progress,Technical Issue,Low,Neutral
+T1114,The website stopped working This is not working correctly. Thanks for your help.,2026-08-31,Customer 66,customer52@example.com,In Progress,Technical Issue,Medium,Positive
+T1115,Notifications are not appearing This is affecting several users. I am frustrated and disappointed.,2026-08-12,Customer 4,customer15@example.com,In Progress,Technical Issue,High,Negative
+T1116,The app crashes when I upload a file This is an urgent outage.,2026-09-30,Customer 75,customer34@example.com,Open,Technical Issue,Urgent,Neutral
+T1117,The dashboard is loading very slowly This is a general question.,2026-10-05,Customer 77,customer56@example.com,In Progress,Technical Issue,Low,Neutral
+T1118,I see an error when saving settings This is not working correctly. Thanks for your help.,2026-08-26,Customer 41,customer56@example.com,Open,Technical Issue,Medium,Positive
+T1119,The website stopped working This is affecting several users. I am frustrated and disappointed.,2026-09-17,Customer 74,customer25@example.com,In Progress,Technical Issue,High,Negative
+T1120,Notifications are not appearing This is an urgent outage.,2026-10-09,Customer 56,customer1@example.com,Open,Technical Issue,Urgent,Neutral
+T1121,Please refund my recent purchase This is a general question.,2026-09-18,Customer 56,customer9@example.com,In Progress,Refund,Low,Neutral
+T1122,I cancelled but did not get my money back This is not working correctly. Thanks for your help.,2026-09-02,Customer 41,customer16@example.com,In Progress,Refund,Medium,Positive
+T1123,I want a refund for a duplicate order This is affecting several users. I am frustrated and disappointed.,2026-09-09,Customer 40,customer53@example.com,In Progress,Refund,High,Negative
+T1124,Please return the payment to my card This is an urgent outage.,2026-09-16,Customer 38,customer71@example.com,Open,Refund,Urgent,Neutral
+T1125,My refund is overdue This is a general question.,2026-09-29,Customer 54,customer49@example.com,Open,Refund,Low,Neutral
+T1126,Please refund my recent purchase This is not working correctly. Thanks for your help.,2026-09-02,Customer 73,customer39@example.com,Resolved,Refund,Medium,Positive
+T1127,I cancelled but did not get my money back This is affecting several users. I am frustrated and disappointed.,2026-09-06,Customer 1,customer39@example.com,In Progress,Refund,High,Negative
+T1128,I want a refund for a duplicate order This is an urgent outage.,2026-09-28,Customer 56,customer75@example.com,In Progress,Refund,Urgent,Neutral
+T1129,Please return the payment to my card This is a general question.,2026-09-12,Customer 57,customer57@example.com,Open,Refund,Low,Neutral
+T1130,My refund is overdue This is not working correctly. Thanks for your help.,2026-09-09,Customer 61,customer22@example.com,Open,Refund,Medium,Positive
+T1131,Please refund my recent purchase This is affecting several users. I am frustrated and disappointed.,2026-09-23,Customer 66,customer80@example.com,In Progress,Refund,High,Negative
+T1132,I cancelled but did not get my money back This is an urgent outage.,2026-10-06,Customer 31,customer40@example.com,Open,Refund,Urgent,Neutral
+T1133,I want a refund for a duplicate order This is a general question.,2026-08-21,Customer 26,customer19@example.com,Open,Refund,Low,Neutral
+T1134,Please return the payment to my card This is not working correctly. Thanks for your help.,2026-10-09,Customer 32,customer61@example.com,Open,Refund,Medium,Positive
+T1135,My refund is overdue This is affecting several users. I am frustrated and disappointed.,2026-09-12,Customer 54,customer74@example.com,Open,Refund,High,Negative
+T1136,Please refund my recent purchase This is an urgent outage.,2026-08-27,Customer 50,customer64@example.com,Resolved,Refund,Urgent,Neutral
+T1137,I cancelled but did not get my money back This is a general question.,2026-09-26,Customer 19,customer1@example.com,Open,Refund,Low,Neutral
+T1138,I want a refund for a duplicate order This is not working correctly. Thanks for your help.,2026-08-23,Customer 55,customer29@example.com,Open,Refund,Medium,Positive
+T1139,Please return the payment to my card This is affecting several users. I am frustrated and disappointed.,2026-08-21,Customer 67,customer60@example.com,Open,Refund,High,Negative
+T1140,My refund is overdue This is an urgent outage.,2026-09-06,Customer 32,customer16@example.com,Resolved,Refund,Urgent,Neutral
+T1141,Please refund my recent purchase This is a general question.,2026-10-03,Customer 60,customer68@example.com,In Progress,Refund,Low,Neutral
+T1142,I cancelled but did not get my money back This is not working correctly. Thanks for your help.,2026-08-12,Customer 57,customer79@example.com,Resolved,Refund,Medium,Positive
+T1143,I want a refund for a duplicate order This is affecting several users. I am frustrated and disappointed.,2026-08-19,Customer 71,customer58@example.com,Open,Refund,High,Negative
+T1144,Please return the payment to my card This is an urgent outage.,2026-08-25,Customer 61,customer58@example.com,In Progress,Refund,Urgent,Neutral
+T1145,My refund is overdue This is a general question.,2026-08-24,Customer 32,customer36@example.com,Resolved,Refund,Low,Neutral
+T1146,Please refund my recent purchase This is not working correctly. Thanks for your help.,2026-09-01,Customer 31,customer36@example.com,Resolved,Refund,Medium,Positive
+T1147,I cancelled but did not get my money back This is affecting several users. I am frustrated and disappointed.,2026-10-07,Customer 37,customer31@example.com,In Progress,Refund,High,Negative
+T1148,I want a refund for a duplicate order This is an urgent outage.,2026-09-20,Customer 41,customer70@example.com,Open,Refund,Urgent,Neutral
+T1149,Please return the payment to my card This is a general question.,2026-10-03,Customer 20,customer30@example.com,Resolved,Refund,Low,Neutral
+T1150,My refund is overdue This is not working correctly. Thanks for your help.,2026-08-28,Customer 20,customer28@example.com,Open,Refund,Medium,Positive
+T1151,Please refund my recent purchase This is affecting several users. I am frustrated and disappointed.,2026-09-15,Customer 53,customer43@example.com,Resolved,Refund,High,Negative
+T1152,I cancelled but did not get my money back This is an urgent outage.,2026-09-15,Customer 8,customer27@example.com,Resolved,Refund,Urgent,Neutral
+T1153,I want a refund for a duplicate order This is a general question.,2026-09-17,Customer 75,customer3@example.com,Resolved,Refund,Low,Neutral
+T1154,Please return the payment to my card This is not working correctly. Thanks for your help.,2026-09-11,Customer 1,customer46@example.com,In Progress,Refund,Medium,Positive
+T1155,My refund is overdue This is affecting several users. I am frustrated and disappointed.,2026-08-24,Customer 50,customer54@example.com,Open,Refund,High,Negative
+T1156,Please refund my recent purchase This is an urgent outage.,2026-09-10,Customer 29,customer35@example.com,Resolved,Refund,Urgent,Neutral
+T1157,I cancelled but did not get my money back This is a general question.,2026-09-10,Customer 4,customer50@example.com,In Progress,Refund,Low,Neutral
+T1158,I want a refund for a duplicate order This is not working correctly. Thanks for your help.,2026-08-30,Customer 52,customer22@example.com,Resolved,Refund,Medium,Positive
+T1159,Please return the payment to my card This is affecting several users. I am frustrated and disappointed.,2026-08-14,Customer 17,customer80@example.com,Open,Refund,High,Negative
+T1160,My refund is overdue This is an urgent outage.,2026-08-14,Customer 51,customer76@example.com,Open,Refund,Urgent,Neutral
+T1161,Please add dark mode This is a general question.,2026-10-06,Customer 55,customer18@example.com,Resolved,Feature Request,Low,Neutral
+T1162,Please let me export reports as PDF This is not working correctly. Thanks for your help.,2026-09-30,Customer 7,customer34@example.com,Resolved,Feature Request,Medium,Positive
+T1163,Can you add team sharing This is affecting several users. I am frustrated and disappointed.,2026-09-21,Customer 28,customer59@example.com,In Progress,Feature Request,High,Negative
+T1164,Please add calendar reminders This is an urgent outage.,2026-09-20,Customer 49,customer36@example.com,Resolved,Feature Request,Urgent,Neutral
+T1165,Please support more languages This is a general question.,2026-09-25,Customer 11,customer61@example.com,Open,Feature Request,Low,Neutral
+T1166,Please add dark mode This is not working correctly. Thanks for your help.,2026-08-25,Customer 70,customer7@example.com,In Progress,Feature Request,Medium,Positive
+T1167,Please let me export reports as PDF This is affecting several users. I am frustrated and disappointed.,2026-09-27,Customer 9,customer6@example.com,Open,Feature Request,High,Negative
+T1168,Can you add team sharing This is an urgent outage.,2026-08-12,Customer 32,customer26@example.com,Open,Feature Request,Urgent,Neutral
+T1169,Please add calendar reminders This is a general question.,2026-09-02,Customer 20,customer31@example.com,Open,Feature Request,Low,Neutral
+T1170,Please support more languages This is not working correctly. Thanks for your help.,2026-09-11,Customer 15,customer73@example.com,Open,Feature Request,Medium,Positive
+T1171,Please add dark mode This is affecting several users. I am frustrated and disappointed.,2026-09-12,Customer 33,customer48@example.com,Open,Feature Request,High,Negative
+T1172,Please let me export reports as PDF This is an urgent outage.,2026-09-03,Customer 78,customer15@example.com,Open,Feature Request,Urgent,Neutral
+T1173,Can you add team sharing This is a general question.,2026-09-22,Customer 14,customer75@example.com,Open,Feature Request,Low,Neutral
+T1174,Please add calendar reminders This is not working correctly. Thanks for your help.,2026-08-13,Customer 40,customer74@example.com,Resolved,Feature Request,Medium,Positive
+T1175,Please support more languages This is affecting several users. I am frustrated and disappointed.,2026-09-16,Customer 26,customer10@example.com,Open,Feature Request,High,Negative
+T1176,Please add dark mode This is an urgent outage.,2026-10-05,Customer 39,customer77@example.com,Open,Feature Request,Urgent,Neutral
+T1177,Please let me export reports as PDF This is a general question.,2026-08-22,Customer 73,customer6@example.com,In Progress,Feature Request,Low,Neutral
+T1178,Can you add team sharing This is not working correctly. Thanks for your help.,2026-09-07,Customer 55,customer48@example.com,Open,Feature Request,Medium,Positive
+T1179,Please add calendar reminders This is affecting several users. I am frustrated and disappointed.,2026-09-09,Customer 44,customer2@example.com,Resolved,Feature Request,High,Negative
+T1180,Please support more languages This is an urgent outage.,2026-08-20,Customer 63,customer14@example.com,Resolved,Feature Request,Urgent,Neutral
+T1181,Please add dark mode This is a general question.,2026-09-18,Customer 59,customer20@example.com,Resolved,Feature Request,Low,Neutral
+T1182,Please let me export reports as PDF This is not working correctly. Thanks for your help.,2026-09-30,Customer 67,customer35@example.com,Resolved,Feature Request,Medium,Positive
+T1183,Can you add team sharing This is affecting several users. I am frustrated and disappointed.,2026-09-12,Customer 56,customer76@example.com,In Progress,Feature Request,High,Negative
+T1184,Please add calendar reminders This is an urgent outage.,2026-09-21,Customer 32,customer12@example.com,In Progress,Feature Request,Urgent,Neutral
+T1185,Please support more languages This is a general question.,2026-08-16,Customer 58,customer32@example.com,Resolved,Feature Request,Low,Neutral
+T1186,Please add dark mode This is not working correctly. Thanks for your help.,2026-09-05,Customer 79,customer49@example.com,In Progress,Feature Request,Medium,Positive
+T1187,Please let me export reports as PDF This is affecting several users. I am frustrated and disappointed.,2026-10-10,Customer 64,customer42@example.com,Open,Feature Request,High,Negative
+T1188,Can you add team sharing This is an urgent outage.,2026-09-10,Customer 28,customer46@example.com,In Progress,Feature Request,Urgent,Neutral
+T1189,Please add calendar reminders This is a general question.,2026-09-20,Customer 36,customer77@example.com,In Progress,Feature Request,Low,Neutral
+T1190,Please support more languages This is not working correctly. Thanks for your help.,2026-09-06,Customer 2,customer67@example.com,Open,Feature Request,Medium,Positive
+T1191,Please add dark mode This is affecting several users. I am frustrated and disappointed.,2026-10-06,Customer 31,customer53@example.com,Resolved,Feature Request,High,Negative
+T1192,Please let me export reports as PDF This is an urgent outage.,2026-09-06,Customer 31,customer61@example.com,Resolved,Feature Request,Urgent,Neutral
+T1193,Can you add team sharing This is a general question.,2026-09-13,Customer 3,customer12@example.com,In Progress,Feature Request,Low,Neutral
+T1194,Please add calendar reminders This is not working correctly. Thanks for your help.,2026-09-27,Customer 52,customer32@example.com,In Progress,Feature Request,Medium,Positive
+T1195,Please support more languages This is affecting several users. I am frustrated and disappointed.,2026-08-30,Customer 75,customer48@example.com,Resolved,Feature Request,High,Negative
+T1196,Please add dark mode This is an urgent outage.,2026-09-06,Customer 68,customer45@example.com,Resolved,Feature Request,Urgent,Neutral
+T1197,Please let me export reports as PDF This is a general question.,2026-08-25,Customer 71,customer43@example.com,In Progress,Feature Request,Low,Neutral
+T1198,Can you add team sharing This is not working correctly. Thanks for your help.,2026-08-28,Customer 59,customer35@example.com,In Progress,Feature Request,Medium,Positive
+T1199,Please add calendar reminders This is affecting several users. I am frustrated and disappointed.,2026-09-25,Customer 30,customer16@example.com,Open,Feature Request,High,Negative
+T1200,Please support more languages This is an urgent outage.,2026-09-21,Customer 16,customer69@example.com,Open,Feature Request,Urgent,Neutral
